@@ -13,5 +13,8 @@
 整个文件或仓库并不构成特定的安全风险，但是您认为在其他方面令人反感。
 受我们的社区指导方针约束的内容，例如恶意软件或万能工具。 如果您对我们的社区指导方针有疑问，或者认为 GitHub 上的内容涉嫌违反我们的指导方针，您可以使用 报告内容 联系我们。
 
+更多咨询内容：
+https://docs.github.com/cn/free-pro-team@latest/github/site-policy/github-sensitive-data-removal-policy
+
 GitHub GraphQL API
 https://developer.github.com/v4/explorer/
